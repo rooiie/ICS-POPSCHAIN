@@ -10,8 +10,8 @@ Contents
 
 * Timeline
   * 2022-11-30: Spawn time: `2022-11-30T17:00:00.000000000Z`
-  * 2022-11-27: Proposal 11 voting period ends
-  * 2022-11-25: Proposal 11 goes into voting period
+  * 2022-11-27: Proposal 15 voting period ends
+  * 2022-11-25: Proposal 15 goes into voting period
   * 2022-11-25: Genesis file without CCV state is generated
 
 Read the [Consumer Chain Start Process](/docs/Consumer-Chain-Start-Process.md) page for more details about the workflow.
@@ -55,7 +55,7 @@ The genesis file with was generated using the following settings:
 
 ## Endpoints
 
-* **p2p persistent peers : Coming Soon**
+* **p2p persistent peers : 092bec7cd7a651783c853da1eb2cde86f6525be3@45.67.221.83:26676**
 * These peers represent the `pops`validator. We are accepting `250` inbound peeers, but please consider sharing your peers in discord, or create a PR to [`peers.txt`](peers.txt)
 
 * Please keep in mind that any validator that does not come online after 67% of the voting power is up and running, is likely to be slashed for downtime, potentially resulting in being jailed (the `signed_blocks_window` parameter is set to `8640`).
