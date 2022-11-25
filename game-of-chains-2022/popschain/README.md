@@ -50,12 +50,12 @@ The genesis file with was generated using the following settings:
 * Chain ID: `popschain-1`
 * Denom: `upopschain`
 * Signed blocks window: `"8640"`
-* Genesis file **without CCV state**: [`popschain-fresh-genesis.json`](popschain-fresh-genesis.json), SHA256: `07b697e28618c29b234137240ea153aad37810d786727639fff93e02d81cc2e8`
+* Genesis file **without CCV state**: [`popschain-fresh-genesis.json`](popschain-fresh-genesis.json), SHA256: `b07ffea2e68907b277f8cc04d52ad6654d0c2a22c38d66ba5716576a52227c90`
   * **This is provided only for verification, this is not the genesis file validators should be running their nodes with.**
 
 ## Endpoints
 
-* **p2p persistent peers : `595923e093cbe11dea4f816b48e87691a614a964@34.82.58.71:26656,595923e093cbe11dea4f816b48e87691a614a964@34.145.117.181:26656`**
+* **p2p persistent peers : Coming Soon**
 * These peers represent the `pops`validator. We are accepting `250` inbound peeers, but please consider sharing your peers in discord, or create a PR to [`peers.txt`](peers.txt)
 
 * Please keep in mind that any validator that does not come online after 67% of the voting power is up and running, is likely to be slashed for downtime, potentially resulting in being jailed (the `signed_blocks_window` parameter is set to `8640`).

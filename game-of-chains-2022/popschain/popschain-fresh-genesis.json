@@ -20,7 +20,7 @@
         {
           "@type": "/cosmos.auth.v1beta1.BaseAccount",
           "account_number": "0",
-          "address": "cosmos1xqnf6w60t3shcn5sey75a634w48aky3f4scf5r",
+          "address": "cosmos1ls2z5an0kmdn9flp0ccx9msf5546z0w4460hyh",
           "pub_key": null,
           "sequence": "0"
         }
@@ -45,7 +45,7 @@
           "coins": [{ "amount": "1000000000000000", "denom": "upopschain" }]
         },
         {
-          "address": "cosmos1xqnf6w60t3shcn5sey75a634w48aky3f4scf5r",
+          "address": "cosmos1ls2z5an0kmdn9flp0ccx9msf5546z0w4460hyh",
           "coins": [{ "amount": "1000000000000000", "denom": "upopschain" }]
         }
       ],
@@ -155,6 +155,6 @@
     "validator": { "pub_key_types": ["ed25519"] },
     "version": {}
   },
-  "genesis_time": "2022-11-28T17:00:00.000000000Z",
+  "genesis_time": "2022-11-30T17:00:00.000000000Z",
   "initial_height": "1"
 }
