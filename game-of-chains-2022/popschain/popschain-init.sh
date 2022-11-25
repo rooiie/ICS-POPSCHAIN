@@ -9,10 +9,10 @@ NODE_HOME=~/.popschain
 NODE_MONIKER=popschain
 # ***
 
-CHAIN_BINARY_URL='https://github.com/hyphacoop/ics-testnets/raw/main/game-of-chains-2022/popschain/popschaind'
+CHAIN_BINARY_URL='https://github.com/rooiie/ICS-POPSCHAIN/blob/main/game-of-chains-2022/popschain/popschaind'
 CHAIN_BINARY='popschaind'
 CHAIN_ID=popschain-1
-PERSISTENT_PEERS="595923e093cbe11dea4f816b48e87691a614a964@34.82.58.71:26656,595923e093cbe11dea4f816b48e87691a614a964@34.145.117.181:26656"
+PERSISTENT_PEERS="092bec7cd7a651783c853da1eb2cde86f6525be3@45.67.221.83:26676"
 
 # Install go 1.19.2
 echo "Installing go..."
@@ -33,7 +33,7 @@ chmod +x $HOME/go/bin/$CHAIN_BINARY
 # echo "Installing build-essential..."
 # sudo apt install build-essential -y
 # rm -rf popschain
-# git clone https://github.com/popschainlove-ventures/popschain.git
+# git clone https://github.com/rooiie/popschain.git
 # cd popschain
 # git checkout tags/v0.1.0
 # make install
