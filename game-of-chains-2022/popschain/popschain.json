@@ -1,6 +1,6 @@
 {
 	"title": "Create the popschain chain",
-	"description": "This corrects  the issues found in prop-11. This is a new proposal to create the consumer chain \"popschain-1\". Visit https://github.com/rooiie/popschain/ for details on this proposal's data and how to join the chain.",
+	"description": "This corrects  the issues found in prop-11. This is a new proposal to create the consumer chain \"popschain-1\". Visit hhttps://github.com/rooiie/ICS-POPSCHAIN/tree/main/game-of-chains-2022/popschain for details on this proposal's data and how to join the chain.",
 	"chain_id": "popschain-1",
 	"initial_height": {
 		"revision_height": 1,
